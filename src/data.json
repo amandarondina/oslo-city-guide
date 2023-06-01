@@ -1,0 +1,239 @@
+{
+  "data": {
+    "landmarks": [
+      {
+        "imageUrl": "../../src/assets/images/landmarks/golkirke.jpg",
+        "text": "Norsk Folkemuseum",
+        "label": "Museums",
+        "path": "https://norskfolkemuseum.no/",
+        "id": "lm01"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/frognerparken.jpg",
+        "text": "Vigelandsparken",
+        "label": "Parks",
+        "path": "https://vigeland.museum.no/vigelandsparken",
+        "id": "lm02"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/city-hall.jpg",
+        "text": "City Hall",
+        "label": "Political Buildings",
+        "path": "https://www.oslo.kommune.no/oslo-city-hall/",
+        "id": "lm03"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/castle.jpg",
+        "text": "Royal Palace",
+        "label": "Historical Buildings",
+        "path": "https://www.royalcourt.no/artikkel.html?tid=29623",
+        "id": "lm04"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/akershus.jpg",
+        "text": "Akershus Fortress",
+        "label": "Historical Buildings",
+        "path": "https://kultur.forsvaret.no/forsvarets-festninger/akershus-festning",
+        "id": "lm05"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/bogstadgard.jpg",
+        "text": "Bogstadgård",
+        "label": "Farms",
+        "path": "https://bogstad.no/",
+        "id": "lm06"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/munch.jpg",
+        "text": "Munch Museum",
+        "label": "Museums",
+        "path": "https://www.munchmuseet.no/",
+        "id": "lm07"
+      },
+      {
+        "imageUrl": "../../src/assets/images/landmarks/operahuset.jpg",
+        "text": "Opera House",
+        "label": "Theaters",
+        "path": "https://operaen.no/",
+        "id": "lm08"
+      }
+    ],
+
+    "bars": [
+      {
+        "imageUrl": "../../src/assets/images/bars/blaa.jpg",
+        "text": "Blå",
+        "label": "Bars & Pubs",
+        "path": "https://www.blaaoslo.no/",
+        "id": "b01"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/dattera.jpg",
+        "text": "Dattera Til Hagen",
+        "label": "Bars & Pubs",
+        "path": "https://dattera.no/",
+        "id": "b02"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/louise.jpg",
+        "text": "Louise Nightclub",
+        "label": "Nightclubs",
+        "path": "https://www.restaurantlouise.no/visit-tremont",
+        "id": "b03"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/oslocamping.jpg",
+        "text": "Oslo Camping",
+        "label": "Minigolf Bar & Pub",
+        "path": "https://www.campingen.no/oslo",
+        "id": "b04"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/s4.jpg",
+        "text": "S4 Nightclub",
+        "label": "Nightclubs",
+        "path": "https://s4nightclub.no/",
+        "id": "b05"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/syng.jpg",
+        "text": "Syng",
+        "label": "Karaoke Bar",
+        "path": "https://syng.no/syng/",
+        "id": "b06"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/tilt.jpg ",
+        "text": "Tilt",
+        "label": "Arcade Bar",
+        "path": "https://tiltoslo.no/",
+        "id": "b07"
+      },
+      {
+        "imageUrl": "../../src/assets/images/bars/jaeger.jpg ",
+        "text": "Jaeger",
+        "label": "Nightclubs",
+        "path": "https://jaegeroslo.no/",
+        "id": "b08"
+      }
+    ],
+    "restaurants": [
+      {
+        "imageUrl": "../../src/assets/images/restaurants/hanami.jpg",
+        "text": "Hanami - Tjuvholmen",
+        "label": "Japanese",
+        "path": "https://hanami.no/",
+        "id": "r01"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/nodee.jpg",
+        "text": "Nodee Sky - Barcode",
+        "label": "Asian Fusion",
+        "path": "https://www.nodee.no/nodee-sky-nor",
+        "id": "r02"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/finstua.jpg",
+        "text": "Restaurant Finstua - Holmenkollen",
+        "label": "Scandinavian",
+        "path": "https://www.frognerseteren.no/default.aspx?pageId=22",
+        "id": "r03"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/streetfood.jpg",
+        "text": "Oslo Street Food - Sentrum",
+        "label": "Food Court",
+        "path": "https://www.oslo-streetfood.no/",
+        "id": "r04"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/vaaghals.webp",
+        "text": "Vaaghals - Barcode",
+        "label": "Scandinavian",
+        "path": "https://www.vaaghals.com/",
+        "id": "r05"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/mathallen.jpg",
+        "text": "Matthalen - Vulkan",
+        "label": "Food Court",
+        "path": "https://mathallenoslo.no/",
+        "id": "r06"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/brasilia.jpg",
+        "text": "Brasilia Oslo - Sentrum",
+        "label": "Brazilian Steakhouse",
+        "path": "https://brasilia.no/",
+        "id": "r07"
+      },
+      {
+        "imageUrl": "../../src/assets/images/restaurants/lofoten.jpg",
+        "text": "Lofoten Fiskerestaurant",
+        "label": "Seafood",
+        "path": "https://www.lofoten-fiskerestaurant.no/no/",
+        "id": "r08"
+      }
+    ],
+    "hotels": [
+      {
+          "imageUrl": "../../src/assets/images/hotels/radissonblu.webp",
+          "text": "Radisson Blu Plaza",
+          "label": "4.3 ⭐" ,
+          "path": "https://www.radissonhotels.com/no-no/varemerke/radisson-blu",
+          "id": "h01"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/sommerro.webp",
+          "text": "Sommerro",
+          "label": "4.0 ⭐" ,
+          "path": "https://www.sommerrohouse.com/overnatting/",
+          "id": "h02"
+       },
+  
+       {
+          "imageUrl": "../../src/assets/images/hotels/radissonred.jpg",
+          "text": "Radisson RED Økern",
+          "label": "4.7 ⭐" ,
+          "path": "https://www.radissonhotels.com/no-no/varemerke/radisson-red",
+          "id": "h03"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/qualityhotel.jpg",
+          "text": "Quality Hotel Hasle Linie",
+          "label": "4.2 ⭐" ,
+          "path": "https://www.strawberry.no/hotell/norge/oslo/quality-hotel-hasle-linie/",
+          "id": "h04"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/grand-hotel-exterior.jpg",
+          "text": "Grand Hotel",
+          "label": "4.5 ⭐" ,
+          "path": "https://grand.no/",
+          "id": "h05"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/alhotel.webp",
+          "text": "Amerikalinjen",
+          "label": "4.7 ⭐" ,
+          "path": "https://amerikalinjen.com/",
+          "id": "h06"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/bristol.webp",
+          "text": "Hotell Bristol",
+          "label": "4.5 ⭐" ,
+          "path": "https://hotelbristol.no/",
+          "id": "h07"
+       },
+       {
+          "imageUrl": "../../src/assets/images/hotels/clarion.jpg",
+          "text": "Clarion The Hub",
+          "label": "4.4 ⭐" ,
+          "path": "https://www.strawberry.no/hotell/norge/oslo/clarion-hotel-the-hub/",
+          "id": "h08"
+       }
+   
+  ]
+  }
+}
