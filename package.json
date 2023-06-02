@@ -1,6 +1,6 @@
 {
-  "homepage": "https://amandarondina.github.io/oslo-guide",
-  "name": "oslo-city-page",
+  "homepage": "https://amandarondina.github.io/oslo-city-guide",
+  "name": "oslo-city-guide",
   "private": true,
   "version": "0.0.0",
   "type": "module",
